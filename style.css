@@ -1,5 +1,11 @@
 html, body {
   background-color: white;
   color: black;
-  
+  font-family: Arial, sans-serif;
+}
+h1 {
+  font-family: 'Times New Roman', serif;
+}
+h2 {
+  font-family: 'Times New Roman', serif;
 }
