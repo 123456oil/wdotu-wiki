@@ -3,9 +3,10 @@ html, body {
   color: black;
   font-family: Arial, sans-serif;
 }
-h1 {
-  font-family: 'Times New Roman', serif;
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
 }
-h2 {
-  font-family: 'Times New Roman', serif;
+th, td {
+  background-color: #96D4D4;
 }
