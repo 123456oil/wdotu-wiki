@@ -1,16 +1,33 @@
-html, body {
+.siteside {
+  background-color: #FFE0E0;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width:10%;
+  height:100%; 
+  text-align: center; 
+}
+
+body {
   background-color: white;
   color: black;
   font-family: Arial, sans-serif;
+  width: 89%;
+  position: fixed;
+  left: 10%;
+
 }
+
 h1, h2, h3 {
   font-family: "Times New Roman", Times, serif;
 }
+
 td {
-  background-image: url("slot.png");
   height: 18px;
   width: 16px;
 }
-table {
+
+.craft {
   border-collapse: collapse;
+  background-image: url("slot.png");
 }
