@@ -31,3 +31,33 @@ td {
   border-collapse: collapse;
   background-image: url("slot.png");
 }
+
+.info {
+  border: 2px solid black;
+  position: fixed;
+  width: 20%;
+  left:79%;
+  top:15%;
+  image-rendering: pixelated;
+  text-align: center;
+  background-color: white;
+  padding-bottom: 10px;
+}
+
+th {
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  background-color: #FFE0E0; 
+}
+
+.button {
+  color: black;
+  text-decoration-line: none;
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+}
+
+.button:hover {
+  color: gray;
+  background-color: #FFE0E0;
+}
