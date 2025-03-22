@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../style.css">
+let headerContent = `
 <a href="index"> <img src="../logo.png" style="width:100%;"> </a>
 <b>Wheat Death Of The Universe Wiki</b> <br><br>
 <a href="index" class="button"><b> Main Page </b></a><br><br>
@@ -8,3 +8,4 @@
 <a href="biome" class="button"><b> Biomes </b></a><br><br>
 <a href="dimensions" class="button"><b> Dimensions </b></a><br><br>
 <a href="addons" class="button"><b> Add-ons </b></a><br><br>
+`;
